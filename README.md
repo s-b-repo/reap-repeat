@@ -2,7 +2,6 @@
 says you got a bad checksum and request a new chek sum and drops all checksums
 
 
-
                            _   
                           | |  
  _ __ ___ _ __   ___  __ _| |_ 
