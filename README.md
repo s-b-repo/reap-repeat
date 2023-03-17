@@ -19,3 +19,5 @@ Alternatively, if you prefer to use pip, you can run the following command inste
 lua
 
 pip3 install subprocess time random os
+
+python confuzion.py 
