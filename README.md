@@ -1,4 +1,4 @@
-# reap-repeat
+# reap-repeat-revborn
 says you got a bad checksum and request a new chek sum and drops all checksums
 
 
@@ -21,3 +21,5 @@ lua
 pip3 install subprocess time random os
 
 python confuzion.py 
+# 
+i decided to redo this project
